@@ -3,7 +3,9 @@ A script dedicated to convert a video into a EuRoC dataset
 
 ## How does it work?
 
-This script takes an input video, first timestamp and last timestamp, splits video into frames as well as labeling them. To create ground truth and IMU data, you will be needing to collect data from your sensor while recording. Check https://medium.com/analytics-vidhya/exploring-data-acquisition-and-trajectory-tracking-with-android-devices-and-python-9fdef38f25ee for IMU and ground truth data creation.
+This script takes an input video, first timestamp and last timestamp, splits video into frames as well as labeling them. To create ground truth and IMU data, you will be needing to collect data from your sensor while recording. Check the tutorial below for collecting data about your sensors:
+
+https://medium.com/analytics-vidhya/exploring-data-acquisition-and-trajectory-tracking-with-android-devices-and-python-9fdef38f25ee 
 
 ## Usage
 
