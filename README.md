@@ -17,5 +17,5 @@ pip install opencv-python
 
 ### How to run?
 
-python3 dataset_creator.py <<video name>> <<first timestamp>> <<last timestamp>>
+python3 dataset_creator.py "video name" "first timestamp" "last timestamp"
 python3 dataset_creator.py video.mp4 1000000000500000000 1000000090000000000
